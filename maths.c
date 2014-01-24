@@ -22,6 +22,7 @@ int maths_divide(int a, int b) {
 
 int main() {
 
+        // adding trivial change
         printf("5 add 7:  %d\n", maths_add(5,7));
         printf("12 subtract 4:  %d\n", maths_subtract(12,4));
         printf("6 multiply 3:  %d\n", maths_multiply(6,3));
